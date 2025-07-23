@@ -1,4 +1,4 @@
-# Ticket-Above-Recurring-Average
+# SQL - Ticket-Above-Recurring-Average
 Know which customers frequently place orders above the average ticket for VIP campaigns
 
 WITH cte_sales AS (
